@@ -21,7 +21,7 @@ A comprehensive AI-powered network monitoring system for security threat detecti
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/network_monitor.git
+git clone https://github.com/Kemo0829/network_monitor.git
 cd network_monitor
 
 # Install the package
